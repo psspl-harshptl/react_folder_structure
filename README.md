@@ -1,4 +1,4 @@
-<!-- React Folder Structure -->
+React Folder Structure
 
 - node_module
 - public
